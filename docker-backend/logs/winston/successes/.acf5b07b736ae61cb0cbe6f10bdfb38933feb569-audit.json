@@ -1,0 +1,95 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/.acf5b07b736ae61cb0cbe6f10bdfb38933feb569-audit.json",
+    "files": [
+        {
+            "date": 1752753651867,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-00-51-success.log",
+            "hash": "b76ae3347303d66bcce130f91e0c4d88ed55f0bbf6e516a1b1715d2cdf1b725b"
+        },
+        {
+            "date": 1752753698144,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-01-38-success.log",
+            "hash": "01890b16ef7f5d085efaaaa68a8dc510696823f4ad908e9a81e1f80647e3e645"
+        },
+        {
+            "date": 1752753703412,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-01-43-success.log",
+            "hash": "24667517e7858d95d224843f2064ec5284839c9e76cd5d2663ee74422fc93461"
+        },
+        {
+            "date": 1752753716433,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-01-56-success.log",
+            "hash": "1ea7dafc3c6f57bae38f719e2e5b7a20d3b940faa80dd0261438519ab0957e97"
+        },
+        {
+            "date": 1752753717996,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-01-57-success.log",
+            "hash": "a1ef6e8174b9089ff1cc1d2fa66958924b22db5951c35e6011496e4577852511"
+        },
+        {
+            "date": 1752753718001,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-01-58-success.log",
+            "hash": "10d134c2e820697ba5d8c0338ea5c3abb76cc55a9c1c8bbe8d903bb03ee738e9"
+        },
+        {
+            "date": 1752753741746,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-02-21-success.log",
+            "hash": "17ef45f772f3d700720f6e1cd1ed92a957f66be28513214d76a1a2e26202abf0"
+        },
+        {
+            "date": 1752753743130,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-02-23-success.log",
+            "hash": "fbbccfebb182ac021caf5146d1168eff61110e747f8aef42dca87b607811def0"
+        },
+        {
+            "date": 1752753795080,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-03-15-success.log",
+            "hash": "f6d92c3f9e56683dbae648be637a44227839b44d1a6c723c9d3fd02863b44d2a"
+        },
+        {
+            "date": 1752753796666,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-03-16-success.log",
+            "hash": "87fdde4566ca815aead461eff58a12500d576e2f4cb0f2138c33c45d3e031bd8"
+        },
+        {
+            "date": 1752753851545,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-04-11-success.log",
+            "hash": "aaf239e714d3de3c1b0590ae0d16b482e790ec48c14a3b11e58cf4136cace966"
+        },
+        {
+            "date": 1752753852924,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-04-12-success.log",
+            "hash": "a75a937f7257f4a922148afe77b4ff12da6a658f1c1ba87de3e17be6b5b19f5f"
+        },
+        {
+            "date": 1752753867637,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-04-27-success.log",
+            "hash": "40b84f2a103d3f0467f38a012d547e716d0d31bde6eb9bb695ca04f8ee4932c2"
+        },
+        {
+            "date": 1752753868948,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-04-28-success.log",
+            "hash": "10a386739a73786755281570525b7950515c05034d8912412ff830aeaf2b1563"
+        },
+        {
+            "date": 1752753870864,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-04-30-success.log",
+            "hash": "4c6b0ebcc649e71fab04dacfc076fde26929899de6a68e644d00b249f2bf368c"
+        },
+        {
+            "date": 1752753871163,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-04-31-success.log",
+            "hash": "122a2e07df38a2eed3c529e47ddf05302efc25a5626791e36edf9a57dacde92b"
+        },
+        {
+            "date": 1752753872432,
+            "name": "/Volumes/3614/docker/docker-with-typescript-backend/logs/winston/successes/docker-2025-07-17-18-04-32-success.log",
+            "hash": "f5c9f038cc7719562bd677be57d8d9f6c2dc8011449e96e507ab632eed0c3818"
+        }
+    ],
+    "hashType": "sha256"
+}

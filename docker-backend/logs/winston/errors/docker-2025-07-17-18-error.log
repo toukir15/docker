@@ -1,0 +1,5 @@
+Thu Jul 17 2025 18:0:51 } [DOCKER] error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Thu Jul 17 2025 18:1:38 } [DOCKER] error: string is not defined
+Thu Jul 17 2025 18:1:43 } [DOCKER] error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Thu Jul 17 2025 18:2:23 } [DOCKER] error: uncaughtException is detected
+Thu Jul 17 2025 18:3:16 } [DOCKER] error: uncaughtException is detected
